@@ -10,3 +10,6 @@ This repository contains Python simulations exploring orbital dynamics and reson
   
 ## Usage
 Run the main simulation script:
+
+```bash
+python debris_disk_resonances.py
