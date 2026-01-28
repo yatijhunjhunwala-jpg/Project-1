@@ -4,8 +4,9 @@
 This repository contains Python simulations exploring orbital dynamics and resonance structures in debris disks.
 
 ## Contents
-* `simulation.py`: Main script for calculating orbital trajectories.
-* `plotting.py`: Visualization tools.
-
+* Python 3.8+
+* NumPy
+* Matplotlib
+  
 ## Usage
 Run the main simulation script:
